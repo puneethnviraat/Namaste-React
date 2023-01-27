@@ -1,0 +1,28 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "this is live course",
+  "main": "App.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puneethnviraat/Namaste-React.git"
+  },
+  "author": "Puneeth Nanjappa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/puneethnviraat/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/puneethnviraat/Namaste-React#readme",
+  "devDependencies": {
+    "parcel": "^2.8.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
