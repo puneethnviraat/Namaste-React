@@ -1,5 +1,5 @@
 body{
-   
+   background-color: antiquewhite;
 }
 .container {
     padding-right: 15px;
@@ -23,4 +23,20 @@ body{
     .container {
       width: 1170px;
     }
+  }
+.title{
+  background-color: aliceblue;
+  justify-content: space-around;
+  display: flex;
+  max-height: 200px;
+
+}
+  .logo{
+    max-height:120px;
+  }
+  .userIcon{
+    font-size:120px;color:lightblue;text-shadow:2px 2px 4px #000000
+  }
+  .search{
+    top:35%;
   }
