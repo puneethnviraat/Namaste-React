@@ -6,7 +6,6 @@ body{
     padding-left: 15px;
     margin-right: auto;
     margin-left: auto;
-     background-color: darkslategrey;
      padding: 2%;
   }
   @media (min-width: 768px) {
@@ -24,7 +23,7 @@ body{
       width: 1170px;
     }
   }
-.title{
+.header{
   background-color: aliceblue;
   justify-content: space-around;
   display: flex;
@@ -34,9 +33,37 @@ body{
   .logo{
     max-height:120px;
   }
+  .header ul {
+    list-style: none;
+    display: flex;
+  }
+  .header ul li {
+    color: darkcyan;
+    font-size: 18px;
+    margin: 30px 2px;
+    font-weight: 400;
+  }
   .userIcon{
     font-size:120px;color:lightblue;text-shadow:2px 2px 4px #000000
   }
-  .search{
-    top:35%;
+  .ResturentCard{
+    max-width: 200px;
+    background-color: aliceblue;
+    margin: 10px;
+    border: 2px solid burlywood;
+    padding: 5px;
+  }
+  .resurentsHolder{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .ResturentCard img{
+    max-width: 100%;
+  }
+  .footer{
+    text-align: center;
+    background-color: darkcyan;
+    padding: 10px;
+    font-size: 16px;
+    
   }

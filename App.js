@@ -1,53 +1,69 @@
 import React from "react";
-import ReactDOM from "react-dom/client"
-import logo from './assets/your-puneeth-logo.png';
+import ReactDOM from "react-dom/client";
+import logo from "./assets/your-puneeth-logo.png";
+import resturentDataImport from "./Data.json";
 import { FcBusinessman } from "react-icons/fc";
 
-// nested header element using JSX
-const title1= React.createElement("h1",{style:{color:"red"}},"Test divle 1");
-const title2= React.createElement('h2', {id:"testdivne"},"test divne Two this is for testing");
-const title3= React.createElement(
-    "h3",{},"This is the assingment three did for Namaste react project.."
-    );
-    const TitleComponent1= React.createElement(
-        "div",{className:"title"},[title1,title2,title3]      
-        )
-    
-// nested header element using functional component
-const TitleComponent2=()=>{
-    
-    return(
-        <div className="title" >
-            {TitleComponent1}
-        <h1>Test divle 2</h1>
-        <h2>test divne Two this is for testing of functional component</h2>
-        <h3>This is the assingment three did for Namaste react project..</h3>
-        </div>
-    )
-}
-const TitleComponent3=()=>{
-    
-    
-    return(
-        <div className="title" >
-            <div>
-            <img className="logo" src={logo} alt="" />
-
-            </div>
-        <div >
-        <input className="search" type="text" placeholder="Search here"/>
-        </div>
-    <div>
-    <FcBusinessman style={{ fontSize: "2.5em" }}/> User name
+const Header = () => {
+  return (
+    <div className="header">
+      <img src={logo} alt="logo" className="logo" />
+      <div>
+        <ul>
+          <li>Home</li>
+          <li>About</li>
+          <li>Contact</li>
+          <li>Cart</li>
+        </ul>
+      </div>
     </div>
-        </div>
-    )
-}
+  );
+};
+const resturentData = resturentDataImport;
+const ResturentCard = ({ name, area, avgRating, cloudinaryImageId }) => {
+  return (
+    <div className="ResturentCard">
+      <img
+        src={
+          "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/" +
+          cloudinaryImageId
+        }
+      />
+      <h3>{name}</h3>
+      <p>{area}</p>
+      <p>
+        <b> {avgRating}</b> stars
+      </p>
+    </div>
+  );
+};
+const Body = () => {
+  return (
+    <div className="resurentsHolder container">
+      {resturentData.data.map((resturent) => {
+        return <ResturentCard {...resturent.data} key={resturent.data.id} />;
+      })}
+    </div>
+  );
+};
+const Footer = () => {
+  return (
+    <div className="footer">
+<p>This is the React app for practice...</p>
+    </div>
+  );
+  
+};
 
-//New header component using functional component
+const Applayout = () => {
+  return (
+    <div className="">
+      <Header />
+      <Body />
+      <Footer />
+    </div>
+  );
+};
 
-
-
-    const root = ReactDOM.createRoot(document.getElementById("root"))
-    root.render(<TitleComponent3 />);
-
+const root = ReactDOM.createRoot(document.getElementById("root"));
+root.render(<Applayout />);
