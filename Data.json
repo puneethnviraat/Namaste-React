@@ -1,0 +1,1880 @@
+{
+                "data" : [
+                    {
+                        "type": "restaurant",
+                        "data": {
+                            "type": "F",
+                            "id": "622591",
+                            "name": "Leon's - Burgers & Wings (Leon Grill)",
+                            "uuid": "fa000bec-1580-4cbc-83ca-c86a4268d489",
+                            "city": "40",
+                            "area": "Mysore South",
+                            "totalRatingsString": "500+ ratings",
+                            "cloudinaryImageId": "tvpzucgtkkutmbplwtzz",
+                            "cuisines": [
+                                "Fast Food"
+                            ],
+                            "tags": [],
+                            "costForTwo": 30000,
+                            "costForTwoString": "₹300 FOR TWO",
+                            "deliveryTime": 19,
+                            "minDeliveryTime": 19,
+                            "maxDeliveryTime": 19,
+                            "slaString": "19 MINS",
+                            "lastMileTravel": 1.2999999523162842,
+                            "slugs": {
+                                "restaurant": "leon's---burgers-&-wings-(leon-grill)-mysore-north-mysore-north",
+                                "city": "mysore"
+                            },
+                            "cityState": "40",
+                            "address": "No.12, E and F Block, Chamaraja Mohalla, Dattagalli , Mysore Mahanagar Palike I Circle , Mysore, Karnataka-",
+                            "locality": "Chamaraja Mohalla",
+                            "parentId": 371281,
+                            "unserviceable": false,
+                            "veg": false,
+                            "select": false,
+                            "favorite": false,
+                            "tradeCampaignHeaders": [],
+                            "aggregatedDiscountInfo": {
+                                "header": "50% off",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "50% off | Use SPECIALS",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "50% off up to ₹100 on select items | Use code SPECIALS",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "aggregatedDiscountInfoV2": {
+                                "header": "50% OFF",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "Use SPECIALS",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "50% off up to ₹100 on select items | Use code SPECIALS",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "ribbon": [
+                                {
+                                    "type": "PROMOTED"
+                                }
+                            ],
+                            "chain": [],
+                            "feeDetails": {
+                                "fees": [],
+                                "totalFees": 0,
+                                "message": "",
+                                "title": "",
+                                "amount": "",
+                                "icon": ""
+                            },
+                            "availability": {
+                                "opened": true,
+                                "nextOpenMessage": "",
+                                "nextCloseMessage": ""
+                            },
+                            "longDistanceEnabled": 0,
+                            "rainMode": "NONE",
+                            "thirdPartyAddress": false,
+                            "thirdPartyVendor": "",
+                            "adTrackingID": "cid=5976331~p=1~eid=00000186-7d6f-e71b-2732-e7cf0086017a",
+                            "badges": {
+                                "imageBased": [],
+                                "textBased": [],
+                                "textExtendedBadges": []
+                            },
+                            "lastMileTravelString": "1.2 kms",
+                            "hasSurge": false,
+                            "sla": {
+                                "restaurantId": "622591",
+                                "deliveryTime": 19,
+                                "minDeliveryTime": 19,
+                                "maxDeliveryTime": 19,
+                                "lastMileTravel": 1.2999999523162842,
+                                "lastMileDistance": 0,
+                                "serviceability": "SERVICEABLE",
+                                "rainMode": "NONE",
+                                "longDistance": "NOT_LONG_DISTANCE",
+                                "preferentialService": false,
+                                "iconType": "EMPTY"
+                            },
+                            "promoted": true,
+                            "avgRating": "4.1",
+                            "totalRatings": 500,
+                            "new": false
+                        },
+                        "subtype": "basic"
+                    },
+                    {
+                        "type": "restaurant",
+                        "data": {
+                            "type": "F",
+                            "id": "120908",
+                            "name": "Bhavani Hotel",
+                            "uuid": "62d86fe9-b8f0-4ea5-9517-aee9bce328ab",
+                            "city": "40",
+                            "area": "Kuvempunagar",
+                            "totalRatingsString": "1000+ ratings",
+                            "cloudinaryImageId": "nneiipzk6bqvjmz17oiv",
+                            "cuisines": [
+                                "North Indian",
+                                "South Indian",
+                                "Biryani"
+                            ],
+                            "tags": [],
+                            "costForTwo": 25000,
+                            "costForTwoString": "₹250 FOR TWO",
+                            "deliveryTime": 14,
+                            "minDeliveryTime": 14,
+                            "maxDeliveryTime": 14,
+                            "slaString": "14 MINS",
+                            "lastMileTravel": 0.800000011920929,
+                            "slugs": {
+                                "restaurant": "bhavani-hotel-kuvempunagar-mysore-south",
+                                "city": "mysore"
+                            },
+                            "cityState": "40",
+                            "address": "28/6, Nrupathunga Road, Kuvempunagar, Mysore",
+                            "locality": "Nrupathunga Road",
+                            "parentId": 44653,
+                            "unserviceable": false,
+                            "veg": false,
+                            "select": false,
+                            "favorite": false,
+                            "tradeCampaignHeaders": [],
+                            "aggregatedDiscountInfo": {
+                                "header": "FREE DELIVERY",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "FREE DELIVERY",
+                                        "discountType": "FREE_DELIVERY",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "FREE DELIVERY",
+                                        "discountType": "FREE_DELIVERY",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "aggregatedDiscountInfoV2": {
+                                "header": "",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "Free Delivery",
+                                        "discountType": "FREE_DELIVERY",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "FREE DELIVERY",
+                                        "discountType": "FREE_DELIVERY",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "chain": [],
+                            "feeDetails": {
+                                "fees": [],
+                                "totalFees": 0,
+                                "message": "",
+                                "title": "",
+                                "amount": "",
+                                "icon": ""
+                            },
+                            "availability": {
+                                "opened": true,
+                                "nextOpenMessage": "",
+                                "nextCloseMessage": ""
+                            },
+                            "longDistanceEnabled": 0,
+                            "rainMode": "NONE",
+                            "thirdPartyAddress": false,
+                            "thirdPartyVendor": "",
+                            "adTrackingID": "",
+                            "badges": {
+                                "imageBased": [],
+                                "textBased": [],
+                                "textExtendedBadges": []
+                            },
+                            "lastMileTravelString": "0.8 kms",
+                            "hasSurge": false,
+                            "sla": {
+                                "restaurantId": "120908",
+                                "deliveryTime": 14,
+                                "minDeliveryTime": 14,
+                                "maxDeliveryTime": 14,
+                                "lastMileTravel": 0.800000011920929,
+                                "lastMileDistance": 0,
+                                "serviceability": "SERVICEABLE",
+                                "rainMode": "NONE",
+                                "longDistance": "NOT_LONG_DISTANCE",
+                                "preferentialService": false,
+                                "iconType": "EMPTY"
+                            },
+                            "promoted": false,
+                            "avgRating": "4.0",
+                            "totalRatings": 1000,
+                            "new": false
+                        },
+                        "subtype": "basic"
+                    },
+                    {
+                        "type": "restaurant",
+                        "data": {
+                            "type": "F",
+                            "id": "384759",
+                            "name": "KFC",
+                            "uuid": "290296a2-3e7f-4bb6-b98c-55d4d687dffb",
+                            "city": "40",
+                            "area": "Kuvempunagar",
+                            "totalRatingsString": "1000+ ratings",
+                            "cloudinaryImageId": "bdcd233971b7c81bf77e1fa4471280eb",
+                            "cuisines": [
+                                "Burgers",
+                                "Biryani",
+                                "American",
+                                "Snacks",
+                                "Fast Food"
+                            ],
+                            "tags": [],
+                            "costForTwo": 40000,
+                            "costForTwoString": "₹400 FOR TWO",
+                            "deliveryTime": 19,
+                            "minDeliveryTime": 19,
+                            "maxDeliveryTime": 19,
+                            "slaString": "19 MINS",
+                            "lastMileTravel": 1.399999976158142,
+                            "slugs": {
+                                "restaurant": "kfc-udayaravi-road-mysore-south",
+                                "city": "mysore"
+                            },
+                            "cityState": "40",
+                            "address": "K.F.C. at Ground Floor, Site No- 1101, 1st Stage, Udayaravi Road, Kuvempunagar, Mysuru, Mysore Mahanagar Palike II Circle , Mysore City, Karnataka-570023",
+                            "locality": "Udayaravi Road",
+                            "parentId": 547,
+                            "unserviceable": false,
+                            "veg": false,
+                            "select": false,
+                            "favorite": false,
+                            "tradeCampaignHeaders": [],
+                            "aggregatedDiscountInfo": {
+                                "header": "FREE DELIVERY",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "FREE DELIVERY",
+                                        "discountType": "FREE_DELIVERY",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "FREE DELIVERY",
+                                        "discountType": "FREE_DELIVERY",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "aggregatedDiscountInfoV2": {
+                                "header": "",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "Free Delivery",
+                                        "discountType": "FREE_DELIVERY",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "FREE DELIVERY",
+                                        "discountType": "FREE_DELIVERY",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "chain": [],
+                            "feeDetails": {
+                                "fees": [],
+                                "totalFees": 0,
+                                "message": "",
+                                "title": "",
+                                "amount": "",
+                                "icon": ""
+                            },
+                            "availability": {
+                                "opened": true,
+                                "nextOpenMessage": "",
+                                "nextCloseMessage": ""
+                            },
+                            "longDistanceEnabled": 0,
+                            "rainMode": "NONE",
+                            "thirdPartyAddress": false,
+                            "thirdPartyVendor": "",
+                            "adTrackingID": "",
+                            "badges": {
+                                "imageBased": [],
+                                "textBased": [],
+                                "textExtendedBadges": []
+                            },
+                            "lastMileTravelString": "1.3 kms",
+                            "hasSurge": false,
+                            "sla": {
+                                "restaurantId": "384759",
+                                "deliveryTime": 19,
+                                "minDeliveryTime": 19,
+                                "maxDeliveryTime": 19,
+                                "lastMileTravel": 1.399999976158142,
+                                "lastMileDistance": 0,
+                                "serviceability": "SERVICEABLE",
+                                "rainMode": "NONE",
+                                "longDistance": "NOT_LONG_DISTANCE",
+                                "preferentialService": false,
+                                "iconType": "EMPTY"
+                            },
+                            "promoted": false,
+                            "avgRating": "4.0",
+                            "totalRatings": 1000,
+                            "new": false
+                        },
+                        "subtype": "basic"
+                    },
+                    {
+                        "type": "restaurant",
+                        "data": {
+                            "type": "F",
+                            "id": "109113",
+                            "name": "Zam Zam Yadgaar",
+                            "uuid": "3c2ddf2b-767b-4d72-bd08-38c1a3db4fe1",
+                            "city": "40",
+                            "area": "Mandi Mohalla",
+                            "totalRatingsString": "5000+ ratings",
+                            "cloudinaryImageId": "o5hnrvjdcqvtsj02rb38",
+                            "cuisines": [
+                                "Chinese",
+                                "North Indian",
+                                "Biryani"
+                            ],
+                            "tags": [],
+                            "costForTwo": 20000,
+                            "costForTwoString": "₹200 FOR TWO",
+                            "deliveryTime": 32,
+                            "minDeliveryTime": 32,
+                            "maxDeliveryTime": 32,
+                            "slaString": "32 MINS",
+                            "lastMileTravel": 7.099999904632568,
+                            "slugs": {
+                                "restaurant": "zam-zam-hotel-mandi-mohalla-mysore-north",
+                                "city": "mysore"
+                            },
+                            "cityState": "40",
+                            "address": "2784, L-41, Sawday Road, Mandi Mohalla, Mysore - 570001",
+                            "locality": "Sawday Road",
+                            "parentId": 20979,
+                            "unserviceable": false,
+                            "veg": false,
+                            "select": false,
+                            "favorite": false,
+                            "tradeCampaignHeaders": [],
+                            "aggregatedDiscountInfo": {
+                                "header": "50% off",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "50% off | Use TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "50% off up to ₹100 | Use code TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "aggregatedDiscountInfoV2": {
+                                "header": "50% OFF",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "Use TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "50% off up to ₹100 | Use code TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "ribbon": [
+                                {
+                                    "type": "PROMOTED"
+                                }
+                            ],
+                            "chain": [],
+                            "feeDetails": {
+                                "fees": [],
+                                "totalFees": 0,
+                                "message": "",
+                                "title": "",
+                                "amount": "",
+                                "icon": ""
+                            },
+                            "availability": {
+                                "opened": true,
+                                "nextOpenMessage": "",
+                                "nextCloseMessage": ""
+                            },
+                            "longDistanceEnabled": 0,
+                            "rainMode": "NONE",
+                            "thirdPartyAddress": false,
+                            "thirdPartyVendor": "",
+                            "adTrackingID": "cid=5845490~p=4~eid=00000186-7d6f-e71b-2732-e7d000860400",
+                            "badges": {
+                                "imageBased": [],
+                                "textBased": [],
+                                "textExtendedBadges": []
+                            },
+                            "lastMileTravelString": "7 kms",
+                            "hasSurge": false,
+                            "sla": {
+                                "restaurantId": "109113",
+                                "deliveryTime": 32,
+                                "minDeliveryTime": 32,
+                                "maxDeliveryTime": 32,
+                                "lastMileTravel": 7.099999904632568,
+                                "lastMileDistance": 0,
+                                "serviceability": "SERVICEABLE",
+                                "rainMode": "NONE",
+                                "longDistance": "NOT_LONG_DISTANCE",
+                                "preferentialService": false,
+                                "iconType": "EMPTY"
+                            },
+                            "promoted": true,
+                            "avgRating": "4.1",
+                            "totalRatings": 5000,
+                            "new": false
+                        },
+                        "subtype": "basic"
+                    },
+                    {
+                        "type": "restaurant",
+                        "data": {
+                            "type": "F",
+                            "id": "90818",
+                            "name": "KR Nati Style Mess",
+                            "uuid": "a9dcc62d-7540-43df-ac7f-1f3f923e7871",
+                            "city": "40",
+                            "area": "Kuvempunagar",
+                            "totalRatingsString": "5000+ ratings",
+                            "cloudinaryImageId": "tj6bqqmdftgwvu1hm9bx",
+                            "cuisines": [
+                                "South Indian"
+                            ],
+                            "tags": [],
+                            "costForTwo": 30000,
+                            "costForTwoString": "₹300 FOR TWO",
+                            "deliveryTime": 17,
+                            "minDeliveryTime": 17,
+                            "maxDeliveryTime": 17,
+                            "slaString": "17 MINS",
+                            "lastMileTravel": 1.100000023841858,
+                            "slugs": {
+                                "restaurant": "kr-nati-style-mess-kuvempunagar-mysore-south",
+                                "city": "mysore"
+                            },
+                            "cityState": "40",
+                            "address": "NO 32, Nrupatunga Rd, KEB Colony, Kuvempu Nagar 1st Stage, opp Mallige Diagnostics",
+                            "locality": "Nrupatunga Road",
+                            "parentId": 21433,
+                            "unserviceable": false,
+                            "veg": false,
+                            "select": false,
+                            "favorite": false,
+                            "tradeCampaignHeaders": [],
+                            "aggregatedDiscountInfo": {
+                                "header": "50% off",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "50% off | Use TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "50% off up to ₹100 | Use code TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "aggregatedDiscountInfoV2": {
+                                "header": "50% OFF",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "Use TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "50% off up to ₹100 | Use code TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "chain": [],
+                            "feeDetails": {
+                                "fees": [],
+                                "totalFees": 0,
+                                "message": "",
+                                "title": "",
+                                "amount": "",
+                                "icon": ""
+                            },
+                            "availability": {
+                                "opened": true,
+                                "nextOpenMessage": "",
+                                "nextCloseMessage": ""
+                            },
+                            "longDistanceEnabled": 0,
+                            "rainMode": "NONE",
+                            "thirdPartyAddress": false,
+                            "thirdPartyVendor": "",
+                            "adTrackingID": "",
+                            "badges": {
+                                "imageBased": [],
+                                "textBased": [],
+                                "textExtendedBadges": []
+                            },
+                            "lastMileTravelString": "1.1 kms",
+                            "hasSurge": false,
+                            "sla": {
+                                "restaurantId": "90818",
+                                "deliveryTime": 17,
+                                "minDeliveryTime": 17,
+                                "maxDeliveryTime": 17,
+                                "lastMileTravel": 1.100000023841858,
+                                "lastMileDistance": 0,
+                                "serviceability": "SERVICEABLE",
+                                "rainMode": "NONE",
+                                "longDistance": "NOT_LONG_DISTANCE",
+                                "preferentialService": false,
+                                "iconType": "EMPTY"
+                            },
+                            "promoted": false,
+                            "avgRating": "3.8",
+                            "totalRatings": 5000,
+                            "new": false
+                        },
+                        "subtype": "basic"
+                    },
+                    {
+                        "type": "restaurant",
+                        "data": {
+                            "type": "F",
+                            "id": "128816",
+                            "name": "Mysore Mylari",
+                            "uuid": "48d41492-e71c-4e31-81a2-584a63746f4e",
+                            "city": "40",
+                            "area": "Kuvempunagar",
+                            "totalRatingsString": "5000+ ratings",
+                            "cloudinaryImageId": "wtcomf1hb83tlhcd2qkw",
+                            "cuisines": [
+                                "Chinese",
+                                "North Indian",
+                                "South Indian",
+                                "Ice Cream",
+                                "Biryani"
+                            ],
+                            "tags": [],
+                            "costForTwo": 25000,
+                            "costForTwoString": "₹250 FOR TWO",
+                            "deliveryTime": 18,
+                            "minDeliveryTime": 18,
+                            "maxDeliveryTime": 18,
+                            "slaString": "18 MINS",
+                            "lastMileTravel": 1.399999976158142,
+                            "slugs": {
+                                "restaurant": "mysore-mylari-kuvempunagar-mysore-south",
+                                "city": "mysore"
+                            },
+                            "cityState": "40",
+                            "address": "MIG 12, Udayaravi Road, Kuvempunagar, Mysore",
+                            "locality": "Udayaravi Road",
+                            "parentId": 21354,
+                            "unserviceable": false,
+                            "veg": true,
+                            "select": false,
+                            "favorite": false,
+                            "tradeCampaignHeaders": [],
+                            "aggregatedDiscountInfo": {
+                                "header": "20% off",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "20% off | Use TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "20% off up to ₹50 | Use code TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "aggregatedDiscountInfoV2": {
+                                "header": "20% OFF",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "Use TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "20% off up to ₹50 | Use code TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "chain": [],
+                            "feeDetails": {
+                                "fees": [],
+                                "totalFees": 0,
+                                "message": "",
+                                "title": "",
+                                "amount": "",
+                                "icon": ""
+                            },
+                            "availability": {
+                                "opened": true,
+                                "nextOpenMessage": "",
+                                "nextCloseMessage": ""
+                            },
+                            "longDistanceEnabled": 0,
+                            "rainMode": "NONE",
+                            "thirdPartyAddress": false,
+                            "thirdPartyVendor": "",
+                            "adTrackingID": "",
+                            "badges": {
+                                "imageBased": [],
+                                "textBased": [],
+                                "textExtendedBadges": []
+                            },
+                            "lastMileTravelString": "1.3 kms",
+                            "hasSurge": false,
+                            "sla": {
+                                "restaurantId": "128816",
+                                "deliveryTime": 18,
+                                "minDeliveryTime": 18,
+                                "maxDeliveryTime": 18,
+                                "lastMileTravel": 1.399999976158142,
+                                "lastMileDistance": 0,
+                                "serviceability": "SERVICEABLE",
+                                "rainMode": "NONE",
+                                "longDistance": "NOT_LONG_DISTANCE",
+                                "preferentialService": false,
+                                "iconType": "EMPTY"
+                            },
+                            "promoted": false,
+                            "avgRating": "4.1",
+                            "totalRatings": 5000,
+                            "new": false
+                        },
+                        "subtype": "basic"
+                    },
+                    {
+                        "type": "restaurant",
+                        "data": {
+                            "type": "F",
+                            "id": "394839",
+                            "name": "Pizza Hut",
+                            "uuid": "ea41a7b8-c4c2-4e3c-a9c1-cd48e66391ef",
+                            "city": "40",
+                            "area": "Kuvempunagar",
+                            "totalRatingsString": "1000+ ratings",
+                            "cloudinaryImageId": "ulmeq6kyvx47la374xuk",
+                            "cuisines": [
+                                "Pizzas"
+                            ],
+                            "tags": [],
+                            "costForTwo": 30000,
+                            "costForTwoString": "₹300 FOR TWO",
+                            "deliveryTime": 26,
+                            "minDeliveryTime": 25,
+                            "maxDeliveryTime": 35,
+                            "slaString": "25-35 MINS",
+                            "lastMileTravel": 2.4000000953674316,
+                            "slugs": {
+                                "restaurant": "pizza-hut-adichunchanagiri-road-kuvempu-nagar-mysore-south",
+                                "city": "mysore"
+                            },
+                            "cityState": "40",
+                            "address": "No 12th, Ground Floor, Adichunchanagiri Road, Block K, 1st Stage, Kuvempu Nagara, Mysuru, Karnataka 570023",
+                            "locality": "Adichunchanagiri Road",
+                            "parentId": 721,
+                            "unserviceable": false,
+                            "veg": false,
+                            "select": false,
+                            "favorite": false,
+                            "tradeCampaignHeaders": [],
+                            "aggregatedDiscountInfo": {
+                                "header": "FREE DELIVERY",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "FREE DELIVERY",
+                                        "discountType": "FREE_DELIVERY",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "FREE DELIVERY",
+                                        "discountType": "FREE_DELIVERY",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "aggregatedDiscountInfoV2": {
+                                "header": "",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "Free Delivery",
+                                        "discountType": "FREE_DELIVERY",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "FREE DELIVERY",
+                                        "discountType": "FREE_DELIVERY",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "chain": [],
+                            "feeDetails": {
+                                "fees": [],
+                                "totalFees": 0,
+                                "message": "",
+                                "title": "",
+                                "amount": "",
+                                "icon": ""
+                            },
+                            "availability": {
+                                "opened": true,
+                                "nextOpenMessage": "",
+                                "nextCloseMessage": ""
+                            },
+                            "longDistanceEnabled": 0,
+                            "rainMode": "NONE",
+                            "thirdPartyAddress": false,
+                            "thirdPartyVendor": "",
+                            "adTrackingID": "",
+                            "badges": {
+                                "imageBased": [],
+                                "textBased": [],
+                                "textExtendedBadges": []
+                            },
+                            "lastMileTravelString": "2.4 kms",
+                            "hasSurge": false,
+                            "sla": {
+                                "restaurantId": "394839",
+                                "deliveryTime": 26,
+                                "minDeliveryTime": 25,
+                                "maxDeliveryTime": 35,
+                                "lastMileTravel": 2.4000000953674316,
+                                "lastMileDistance": 0,
+                                "serviceability": "SERVICEABLE",
+                                "rainMode": "NONE",
+                                "longDistance": "NOT_LONG_DISTANCE",
+                                "preferentialService": false,
+                                "iconType": "EMPTY"
+                            },
+                            "promoted": false,
+                            "avgRating": "3.9",
+                            "totalRatings": 1000,
+                            "new": false
+                        },
+                        "subtype": "basic"
+                    },
+                    {
+                        "type": "restaurant",
+                        "data": {
+                            "type": "F",
+                            "id": "648957",
+                            "name": "Annabramha Veg Family Restaurant",
+                            "uuid": "3154746a-9f15-4521-981e-83256703c262",
+                            "city": "40",
+                            "area": "Kuvempunagar",
+                            "totalRatingsString": "Too Few Ratings",
+                            "cloudinaryImageId": "ea5e6f3521a1b76de25f43be8b43b4bd",
+                            "cuisines": [
+                                "North Indian",
+                                "Chinese",
+                                "Biryani"
+                            ],
+                            "tags": [],
+                            "costForTwo": 20000,
+                            "costForTwoString": "₹200 FOR TWO",
+                            "deliveryTime": 18,
+                            "minDeliveryTime": 18,
+                            "maxDeliveryTime": 18,
+                            "slaString": "18 MINS",
+                            "lastMileTravel": 0.30000001192092896,
+                            "slugs": {
+                                "restaurant": "annabramha-veg-family-restaurant-mysore-south-mysore-south",
+                                "city": "mysore"
+                            },
+                            "cityState": "40",
+                            "address": "974, Main Rd, Sriramapura, Vivekananda Nagar, Mysuru, Karnataka 570023, India",
+                            "locality": "Vivekananda Nagar",
+                            "parentId": 390835,
+                            "unserviceable": false,
+                            "veg": true,
+                            "select": false,
+                            "favorite": false,
+                            "tradeCampaignHeaders": [],
+                            "aggregatedDiscountInfo": {
+                                "header": "20% off",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "20% off | Use TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "20% off up to ₹50 | Use code TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "aggregatedDiscountInfoV2": {
+                                "header": "20% OFF",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "Use TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "20% off up to ₹50 | Use code TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "chain": [],
+                            "feeDetails": {
+                                "fees": [],
+                                "totalFees": 0,
+                                "message": "",
+                                "title": "",
+                                "amount": "",
+                                "icon": ""
+                            },
+                            "availability": {
+                                "opened": true,
+                                "nextOpenMessage": "",
+                                "nextCloseMessage": ""
+                            },
+                            "longDistanceEnabled": 0,
+                            "rainMode": "NONE",
+                            "thirdPartyAddress": false,
+                            "thirdPartyVendor": "",
+                            "adTrackingID": "",
+                            "badges": {
+                                "imageBased": [],
+                                "textBased": [],
+                                "textExtendedBadges": []
+                            },
+                            "lastMileTravelString": "0.3 kms",
+                            "hasSurge": false,
+                            "sla": {
+                                "restaurantId": "648957",
+                                "deliveryTime": 18,
+                                "minDeliveryTime": 18,
+                                "maxDeliveryTime": 18,
+                                "lastMileTravel": 0.30000001192092896,
+                                "lastMileDistance": 0,
+                                "serviceability": "SERVICEABLE",
+                                "rainMode": "NONE",
+                                "longDistance": "NOT_LONG_DISTANCE",
+                                "preferentialService": false,
+                                "iconType": "EMPTY"
+                            },
+                            "promoted": false,
+                            "avgRating": "--",
+                            "totalRatings": 0,
+                            "new": false
+                        },
+                        "subtype": "basic"
+                    },
+                    {
+                        "type": "restaurant",
+                        "data": {
+                            "type": "F",
+                            "id": "366932",
+                            "name": "Kamat Madhuvan",
+                            "uuid": "7219ebaa-29f9-4194-a4b4-5d0b1868ad8f",
+                            "city": "40",
+                            "area": "Ittige Gudu",
+                            "totalRatingsString": "100+ ratings",
+                            "cloudinaryImageId": "aomwnhse9dqtjsri7ioj",
+                            "cuisines": [
+                                "Desserts",
+                                "Chinese",
+                                "South Indian"
+                            ],
+                            "tags": [],
+                            "costForTwo": 20000,
+                            "costForTwoString": "₹200 FOR TWO",
+                            "deliveryTime": 30,
+                            "minDeliveryTime": 30,
+                            "maxDeliveryTime": 40,
+                            "slaString": "30-40 MINS",
+                            "lastMileTravel": 5,
+                            "slugs": {
+                                "restaurant": "kamat-madhuvan-mysore-south-mysore-south-2",
+                                "city": "mysore"
+                            },
+                            "cityState": "40",
+                            "address": "151,F2/1E,Khille Mohalla, Ooty Road Ittige Gudu ,Mysore",
+                            "locality": "Khille Mohalla",
+                            "parentId": 114323,
+                            "unserviceable": false,
+                            "veg": false,
+                            "select": false,
+                            "favorite": false,
+                            "tradeCampaignHeaders": [],
+                            "aggregatedDiscountInfo": {
+                                "header": "FREE DELIVERY",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "FREE DELIVERY",
+                                        "discountType": "FREE_DELIVERY",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "FREE DELIVERY",
+                                        "discountType": "FREE_DELIVERY",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "aggregatedDiscountInfoV2": {
+                                "header": "",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "Free Delivery",
+                                        "discountType": "FREE_DELIVERY",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "FREE DELIVERY",
+                                        "discountType": "FREE_DELIVERY",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "ribbon": [
+                                {
+                                    "type": "PROMOTED"
+                                }
+                            ],
+                            "chain": [],
+                            "feeDetails": {
+                                "fees": [],
+                                "totalFees": 0,
+                                "message": "",
+                                "title": "",
+                                "amount": "",
+                                "icon": ""
+                            },
+                            "availability": {
+                                "opened": true,
+                                "nextOpenMessage": "",
+                                "nextCloseMessage": ""
+                            },
+                            "longDistanceEnabled": 0,
+                            "rainMode": "NONE",
+                            "thirdPartyAddress": false,
+                            "thirdPartyVendor": "",
+                            "adTrackingID": "cid=5975432~p=10~eid=00000186-7d6f-e71b-2732-e7d200860a69",
+                            "badges": {
+                                "imageBased": [],
+                                "textBased": [],
+                                "textExtendedBadges": []
+                            },
+                            "lastMileTravelString": "5 kms",
+                            "hasSurge": false,
+                            "sla": {
+                                "restaurantId": "366932",
+                                "deliveryTime": 30,
+                                "minDeliveryTime": 30,
+                                "maxDeliveryTime": 40,
+                                "lastMileTravel": 5,
+                                "lastMileDistance": 0,
+                                "serviceability": "SERVICEABLE",
+                                "rainMode": "NONE",
+                                "longDistance": "NOT_LONG_DISTANCE",
+                                "preferentialService": false,
+                                "iconType": "EMPTY"
+                            },
+                            "promoted": true,
+                            "avgRating": "4.2",
+                            "totalRatings": 100,
+                            "new": false
+                        },
+                        "subtype": "basic"
+                    },
+                    {
+                        "type": "restaurant",
+                        "data": {
+                            "type": "F",
+                            "id": "185763",
+                            "name": "Faasos - Wraps & Rolls",
+                            "uuid": "e128bba3-c4f0-4915-9f4c-5e6b50ff4c0d",
+                            "city": "40",
+                            "area": "Vivekananda Nagar",
+                            "totalRatingsString": "5000+ ratings",
+                            "cloudinaryImageId": "vzlsbpek2a3fnuompry0",
+                            "cuisines": [
+                                "Fast Food",
+                                "North Indian",
+                                "Street Food",
+                                "Desserts"
+                            ],
+                            "tags": [],
+                            "costForTwo": 50000,
+                            "costForTwoString": "₹500 FOR TWO",
+                            "deliveryTime": 24,
+                            "minDeliveryTime": 24,
+                            "maxDeliveryTime": 24,
+                            "slaString": "24 MINS",
+                            "lastMileTravel": 0.6000000238418579,
+                            "slugs": {
+                                "restaurant": "faasos-kuvempu-nagar-mysore-south",
+                                "city": "mysore"
+                            },
+                            "cityState": "40",
+                            "address": "1st floor, Tripura Shree building, opp Allahabad bank N block Kuvempu Nagar Mysore  570023",
+                            "locality": "Kuvempu Nagar",
+                            "parentId": 21809,
+                            "unserviceable": false,
+                            "veg": false,
+                            "select": false,
+                            "favorite": false,
+                            "tradeCampaignHeaders": [],
+                            "aggregatedDiscountInfo": {
+                                "header": "FREE DELIVERY",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "FREE DELIVERY",
+                                        "discountType": "FREE_DELIVERY",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "FREE DELIVERY",
+                                        "discountType": "FREE_DELIVERY",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "aggregatedDiscountInfoV2": {
+                                "header": "",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "Free Delivery",
+                                        "discountType": "FREE_DELIVERY",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "FREE DELIVERY",
+                                        "discountType": "FREE_DELIVERY",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "chain": [],
+                            "feeDetails": {
+                                "fees": [],
+                                "totalFees": 0,
+                                "message": "",
+                                "title": "",
+                                "amount": "",
+                                "icon": ""
+                            },
+                            "availability": {
+                                "opened": true,
+                                "nextOpenMessage": "",
+                                "nextCloseMessage": ""
+                            },
+                            "longDistanceEnabled": 0,
+                            "rainMode": "NONE",
+                            "thirdPartyAddress": false,
+                            "thirdPartyVendor": "",
+                            "adTrackingID": "",
+                            "badges": {
+                                "imageBased": [],
+                                "textBased": [],
+                                "textExtendedBadges": []
+                            },
+                            "lastMileTravelString": "0.6 kms",
+                            "hasSurge": false,
+                            "sla": {
+                                "restaurantId": "185763",
+                                "deliveryTime": 24,
+                                "minDeliveryTime": 24,
+                                "maxDeliveryTime": 24,
+                                "lastMileTravel": 0.6000000238418579,
+                                "lastMileDistance": 0,
+                                "serviceability": "SERVICEABLE",
+                                "rainMode": "NONE",
+                                "longDistance": "NOT_LONG_DISTANCE",
+                                "preferentialService": false,
+                                "iconType": "EMPTY"
+                            },
+                            "promoted": false,
+                            "avgRating": "4.1",
+                            "totalRatings": 5000,
+                            "new": false
+                        },
+                        "subtype": "basic"
+                    },
+                    {
+                        "type": "restaurant",
+                        "data": {
+                            "type": "F",
+                            "id": "185778",
+                            "name": "LunchBox - Meals and Thalis",
+                            "uuid": "c4787e4a-67ea-4959-8b83-7ac1ddd35cff",
+                            "city": "40",
+                            "area": "Vivekananda Nagar",
+                            "totalRatingsString": "1000+ ratings",
+                            "cloudinaryImageId": "s4ggkx8dn5n4sbaxpjcf",
+                            "cuisines": [
+                                "North Indian",
+                                "Punjabi",
+                                "Biryani",
+                                "Healthy Food",
+                                "Jain",
+                                "Thalis",
+                                "Indian",
+                                "Mughlai",
+                                "Desserts"
+                            ],
+                            "tags": [],
+                            "costForTwo": 30000,
+                            "costForTwoString": "₹300 FOR TWO",
+                            "deliveryTime": 24,
+                            "minDeliveryTime": 24,
+                            "maxDeliveryTime": 24,
+                            "slaString": "24 MINS",
+                            "lastMileTravel": 0.6000000238418579,
+                            "slugs": {
+                                "restaurant": "lunchbox-kuvempu-nagar-mysore-south",
+                                "city": "mysore"
+                            },
+                            "cityState": "40",
+                            "address": "1st floor, Tripura Shree building, opp Allahabad bank N block Kuvempu Nagar Mysore  570023",
+                            "locality": "Kuvempu Nagar",
+                            "parentId": 4925,
+                            "unserviceable": false,
+                            "veg": false,
+                            "select": false,
+                            "favorite": false,
+                            "tradeCampaignHeaders": [],
+                            "aggregatedDiscountInfo": {
+                                "header": "FLAT125 off",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "FLAT125 off | Use FLATDEAL",
+                                        "discountType": "Flat",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "FLAT125 off | Use FLATDEAL",
+                                        "discountType": "Flat",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "aggregatedDiscountInfoV2": {
+                                "header": "₹125 OFF",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "Use FLATDEAL",
+                                        "discountType": "Flat",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "FLAT125 off | Use FLATDEAL",
+                                        "discountType": "Flat",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "chain": [],
+                            "feeDetails": {
+                                "fees": [],
+                                "totalFees": 0,
+                                "message": "",
+                                "title": "",
+                                "amount": "",
+                                "icon": ""
+                            },
+                            "availability": {
+                                "opened": true,
+                                "nextOpenMessage": "",
+                                "nextCloseMessage": ""
+                            },
+                            "longDistanceEnabled": 0,
+                            "rainMode": "NONE",
+                            "thirdPartyAddress": false,
+                            "thirdPartyVendor": "",
+                            "adTrackingID": "",
+                            "badges": {
+                                "imageBased": [],
+                                "textBased": [],
+                                "textExtendedBadges": []
+                            },
+                            "lastMileTravelString": "0.6 kms",
+                            "hasSurge": false,
+                            "sla": {
+                                "restaurantId": "185778",
+                                "deliveryTime": 24,
+                                "minDeliveryTime": 24,
+                                "maxDeliveryTime": 24,
+                                "lastMileTravel": 0.6000000238418579,
+                                "lastMileDistance": 0,
+                                "serviceability": "SERVICEABLE",
+                                "rainMode": "NONE",
+                                "longDistance": "NOT_LONG_DISTANCE",
+                                "preferentialService": false,
+                                "iconType": "EMPTY"
+                            },
+                            "promoted": false,
+                            "avgRating": "4.1",
+                            "totalRatings": 1000,
+                            "new": false
+                        },
+                        "subtype": "basic"
+                    },
+                    {
+                        "type": "restaurant",
+                        "data": {
+                            "type": "F",
+                            "id": "598001",
+                            "name": "Chinese Wok",
+                            "uuid": "9bbd596e-4808-40e8-9bfa-b106268672e0",
+                            "city": "40",
+                            "area": "Mysore North",
+                            "totalRatingsString": "100+ ratings",
+                            "cloudinaryImageId": "i9s8pgbnuaau4n2hrf5c",
+                            "cuisines": [
+                                "Chinese",
+                                "Asian",
+                                "Tibetan",
+                                "Desserts"
+                            ],
+                            "tags": [],
+                            "costForTwo": 25000,
+                            "costForTwoString": "₹250 FOR TWO",
+                            "deliveryTime": 31,
+                            "minDeliveryTime": 31,
+                            "maxDeliveryTime": 31,
+                            "slaString": "31 MINS",
+                            "lastMileTravel": 6,
+                            "slugs": {
+                                "restaurant": "chinese-wok---wok-express-mysore-north-mysore-north",
+                                "city": "mysore"
+                            },
+                            "cityState": "40",
+                            "address": "NO.2831, D-20 ( MAIN HOUSE ), NO.2831/1, D-17/2 ( OUT HOUSE ), GROUND FLOOR, 10TH CROSS, ADIPAMPA ROAD, VANIVILASAPURAM, DEVARAJA MOHALLA, V V MOHALLA, MYSORE, Mysore, Mysore, Karnataka-570002",
+                            "locality": "Adipampa Road",
+                            "parentId": 61955,
+                            "unserviceable": false,
+                            "veg": false,
+                            "select": false,
+                            "favorite": false,
+                            "tradeCampaignHeaders": [],
+                            "aggregatedDiscountInfo": {
+                                "header": "Flat 175 off",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "Flat 175 off | Use FLAT175",
+                                        "discountType": "Flat",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "Flat 175 off | Use code FLAT175",
+                                        "discountType": "Flat",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "aggregatedDiscountInfoV2": {
+                                "header": "₹175 OFF",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "Use FLAT175",
+                                        "discountType": "Flat",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "Flat 175 off | Use code FLAT175",
+                                        "discountType": "Flat",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "ribbon": [
+                                {
+                                    "type": "PROMOTED"
+                                }
+                            ],
+                            "chain": [],
+                            "feeDetails": {
+                                "fees": [],
+                                "totalFees": 0,
+                                "message": "",
+                                "title": "",
+                                "amount": "",
+                                "icon": ""
+                            },
+                            "availability": {
+                                "opened": true,
+                                "nextOpenMessage": "",
+                                "nextCloseMessage": ""
+                            },
+                            "longDistanceEnabled": 0,
+                            "rainMode": "NONE",
+                            "thirdPartyAddress": false,
+                            "thirdPartyVendor": "",
+                            "adTrackingID": "cid=5949585~p=13~eid=00000186-7d6f-e71b-2732-e7d300860d05",
+                            "badges": {
+                                "imageBased": [],
+                                "textBased": [],
+                                "textExtendedBadges": []
+                            },
+                            "lastMileTravelString": "6 kms",
+                            "hasSurge": false,
+                            "sla": {
+                                "restaurantId": "598001",
+                                "deliveryTime": 31,
+                                "minDeliveryTime": 31,
+                                "maxDeliveryTime": 31,
+                                "lastMileTravel": 6,
+                                "lastMileDistance": 0,
+                                "serviceability": "SERVICEABLE",
+                                "rainMode": "NONE",
+                                "longDistance": "NOT_LONG_DISTANCE",
+                                "preferentialService": false,
+                                "iconType": "EMPTY"
+                            },
+                            "promoted": true,
+                            "avgRating": "3.7",
+                            "totalRatings": 100,
+                            "new": false
+                        },
+                        "subtype": "basic"
+                    },
+                    {
+                        "type": "restaurant",
+                        "data": {
+                            "type": "F",
+                            "id": "90779",
+                            "name": "Gowdru Mess",
+                            "uuid": "27f1efd8-d6ef-4280-aed3-ac01392e3859",
+                            "city": "40",
+                            "area": "Kuvempunagar",
+                            "totalRatingsString": "10000+ ratings",
+                            "cloudinaryImageId": "wczjur4ombeatgsun4zq",
+                            "cuisines": [
+                                "Chinese",
+                                "North Indian",
+                                "South Indian",
+                                "Biryani"
+                            ],
+                            "tags": [],
+                            "costForTwo": 30000,
+                            "costForTwoString": "₹300 FOR TWO",
+                            "deliveryTime": 20,
+                            "minDeliveryTime": 15,
+                            "maxDeliveryTime": 25,
+                            "slaString": "15-25 MINS",
+                            "lastMileTravel": 2.799999952316284,
+                            "slugs": {
+                                "restaurant": "gowdru-mess-saraswathipuram-mysore-south",
+                                "city": "mysore"
+                            },
+                            "cityState": "40",
+                            "address": "# 46, Vishwamanava Double Road, Chamaraja Mohalla, TK Layout, Mysuru, Karnataka 570009",
+                            "locality": "Vishwamanava Double Road",
+                            "parentId": 20984,
+                            "unserviceable": false,
+                            "veg": false,
+                            "select": false,
+                            "favorite": false,
+                            "tradeCampaignHeaders": [],
+                            "aggregatedDiscountInfo": {
+                                "header": "40% off",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "40% off | Use TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "40% off up to ₹80 | Use code TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "aggregatedDiscountInfoV2": {
+                                "header": "40% OFF",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "Use TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "40% off up to ₹80 | Use code TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "chain": [],
+                            "feeDetails": {
+                                "fees": [],
+                                "totalFees": 0,
+                                "message": "",
+                                "title": "",
+                                "amount": "",
+                                "icon": ""
+                            },
+                            "availability": {
+                                "opened": true,
+                                "nextOpenMessage": "",
+                                "nextCloseMessage": ""
+                            },
+                            "longDistanceEnabled": 0,
+                            "rainMode": "NONE",
+                            "thirdPartyAddress": false,
+                            "thirdPartyVendor": "",
+                            "adTrackingID": "",
+                            "badges": {
+                                "imageBased": [],
+                                "textBased": [],
+                                "textExtendedBadges": []
+                            },
+                            "lastMileTravelString": "2.7 kms",
+                            "hasSurge": false,
+                            "sla": {
+                                "restaurantId": "90779",
+                                "deliveryTime": 20,
+                                "minDeliveryTime": 15,
+                                "maxDeliveryTime": 25,
+                                "lastMileTravel": 2.799999952316284,
+                                "lastMileDistance": 0,
+                                "serviceability": "SERVICEABLE",
+                                "rainMode": "NONE",
+                                "longDistance": "NOT_LONG_DISTANCE",
+                                "preferentialService": false,
+                                "iconType": "EMPTY"
+                            },
+                            "promoted": false,
+                            "avgRating": "4.1",
+                            "totalRatings": 10000,
+                            "new": false
+                        },
+                        "subtype": "basic"
+                    },
+                    {
+                        "type": "restaurant",
+                        "data": {
+                            "type": "F",
+                            "id": "159328",
+                            "name": "The Bakehouse",
+                            "uuid": "d1e54004-b5ec-4b77-8c2c-d8f014bb9c3f",
+                            "city": "40",
+                            "area": "Kuvempunagar",
+                            "totalRatingsString": "1000+ ratings",
+                            "cloudinaryImageId": "kfoenn8jdtyjmwwieqlm",
+                            "cuisines": [
+                                "Desserts",
+                                "Beverages"
+                            ],
+                            "tags": [],
+                            "costForTwo": 10000,
+                            "costForTwoString": "₹100 FOR TWO",
+                            "deliveryTime": 21,
+                            "minDeliveryTime": 21,
+                            "maxDeliveryTime": 21,
+                            "slaString": "21 MINS",
+                            "lastMileTravel": 0.4000000059604645,
+                            "slugs": {
+                                "restaurant": "the-bake-house-mysore-south",
+                                "city": "mysore"
+                            },
+                            "cityState": "40",
+                            "address": "47/E kuvempunagar.opposite hdfc bank",
+                            "locality": "1st Stage",
+                            "parentId": 204897,
+                            "unserviceable": false,
+                            "veg": false,
+                            "select": false,
+                            "favorite": false,
+                            "tradeCampaignHeaders": [],
+                            "aggregatedDiscountInfo": {
+                                "header": "40% off",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "40% off | Use TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "40% off up to ₹80 | Use code TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "aggregatedDiscountInfoV2": {
+                                "header": "40% OFF",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "Use TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "40% off up to ₹80 | Use code TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "chain": [],
+                            "feeDetails": {
+                                "fees": [],
+                                "totalFees": 0,
+                                "message": "",
+                                "title": "",
+                                "amount": "",
+                                "icon": ""
+                            },
+                            "availability": {
+                                "opened": true,
+                                "nextOpenMessage": "",
+                                "nextCloseMessage": ""
+                            },
+                            "longDistanceEnabled": 0,
+                            "rainMode": "NONE",
+                            "thirdPartyAddress": false,
+                            "thirdPartyVendor": "",
+                            "adTrackingID": "",
+                            "badges": {
+                                "imageBased": [],
+                                "textBased": [],
+                                "textExtendedBadges": []
+                            },
+                            "lastMileTravelString": "0.4 kms",
+                            "hasSurge": false,
+                            "sla": {
+                                "restaurantId": "159328",
+                                "deliveryTime": 21,
+                                "minDeliveryTime": 21,
+                                "maxDeliveryTime": 21,
+                                "lastMileTravel": 0.4000000059604645,
+                                "lastMileDistance": 0,
+                                "serviceability": "SERVICEABLE",
+                                "rainMode": "NONE",
+                                "longDistance": "NOT_LONG_DISTANCE",
+                                "preferentialService": false,
+                                "iconType": "EMPTY"
+                            },
+                            "promoted": false,
+                            "avgRating": "3.8",
+                            "totalRatings": 1000,
+                            "new": false
+                        },
+                        "subtype": "basic"
+                    },
+                    {
+                        "type": "restaurant",
+                        "data": {
+                            "type": "F",
+                            "id": "90783",
+                            "name": "Lemon Three",
+                            "uuid": "5d85ed85-2f41-460c-b2c6-92d4aa60b0cf",
+                            "city": "40",
+                            "area": "Vijay Nagar",
+                            "totalRatingsString": "5000+ ratings",
+                            "cloudinaryImageId": "lggbl2za0ctbyowzgtpt",
+                            "cuisines": [
+                                "Chinese",
+                                "North Indian",
+                                "Ice Cream"
+                            ],
+                            "tags": [],
+                            "costForTwo": 40000,
+                            "costForTwoString": "₹400 FOR TWO",
+                            "deliveryTime": 33,
+                            "minDeliveryTime": 33,
+                            "maxDeliveryTime": 33,
+                            "slaString": "33 MINS",
+                            "lastMileTravel": 7.900000095367432,
+                            "slugs": {
+                                "restaurant": "lemon-three-restaurant-vijay-nagar-mysore-north",
+                                "city": "mysore"
+                            },
+                            "cityState": "40",
+                            "address": "127, High Tension Double Road, Lokanayaka Nagar, Mahadeshwara Badavane Layout, Vijay Nagar, Mysuru",
+                            "locality": "Lokanayaka Nagar",
+                            "parentId": 10013,
+                            "unserviceable": false,
+                            "veg": false,
+                            "select": false,
+                            "favorite": false,
+                            "tradeCampaignHeaders": [],
+                            "aggregatedDiscountInfo": {
+                                "header": "50% off",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "50% off | Use TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "50% off up to ₹100 | Use code TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "aggregatedDiscountInfoV2": {
+                                "header": "50% OFF",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "Use TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "50% off up to ₹100 | Use code TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "ribbon": [
+                                {
+                                    "type": "PROMOTED"
+                                }
+                            ],
+                            "chain": [],
+                            "feeDetails": {
+                                "fees": [],
+                                "totalFees": 0,
+                                "message": "",
+                                "title": "",
+                                "amount": "",
+                                "icon": ""
+                            },
+                            "availability": {
+                                "opened": true,
+                                "nextOpenMessage": "",
+                                "nextCloseMessage": ""
+                            },
+                            "longDistanceEnabled": 0,
+                            "rainMode": "NONE",
+                            "thirdPartyAddress": false,
+                            "thirdPartyVendor": "",
+                            "adTrackingID": "cid=5869410~p=16~eid=00000186-7d6f-e71b-2732-e7d40086106b",
+                            "badges": {
+                                "imageBased": [],
+                                "textBased": [],
+                                "textExtendedBadges": []
+                            },
+                            "lastMileTravelString": "7.9 kms",
+                            "hasSurge": false,
+                            "sla": {
+                                "restaurantId": "90783",
+                                "deliveryTime": 33,
+                                "minDeliveryTime": 33,
+                                "maxDeliveryTime": 33,
+                                "lastMileTravel": 7.900000095367432,
+                                "lastMileDistance": 0,
+                                "serviceability": "SERVICEABLE",
+                                "rainMode": "NONE",
+                                "longDistance": "NOT_LONG_DISTANCE",
+                                "preferentialService": false,
+                                "iconType": "EMPTY"
+                            },
+                            "promoted": true,
+                            "avgRating": "3.8",
+                            "totalRatings": 5000,
+                            "new": false
+                        },
+                        "subtype": "basic"
+                    }
+                ]
+            }
