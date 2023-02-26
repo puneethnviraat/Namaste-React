@@ -38,9 +38,9 @@ body{
     display: flex;
   }
   .header ul li {
-    color: darkcyan;
+    color: rgb(173, 112, 32) ;
     font-size: 18px;
-    margin: 30px 2px;
+    margin: 5px 20px;
     font-weight: 400;
   }
   .userIcon{
@@ -62,8 +62,18 @@ body{
   }
   .footer{
     text-align: center;
-    background-color: darkcyan;
+    background-color: rgb(163, 96, 9);
     padding: 10px;
     font-size: 16px;
     
   }
+
+  /* Search CSS */
+  #search-box{position:relative;margin:0 auto;border:1px solid burlywood;
+    padding:5px;border-radius:4px; max-width: 75%;}
+    #search-form{height:40px;background-color:#fff;overflow:hidden}
+    #search-text{font-size:14px;color:#ddd;border-width:0;background:transparent;line-height:15px}
+    #search-box input[type="text"]{width:90%;padding:10px 0 5px 1em;color:#333;outline:none}
+    #search-button{position:absolute;top:5px;right:5px;height:40px;width:80px;color:#fff;text-align:center;border-width:0;background-color: rgb(173, 112, 32) ;cursor:pointer;
+    text-transform:uppercase;border-radius:3px;outline:0}
+    #search-button:hover{background:#333}  
