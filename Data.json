@@ -1,5 +1,4 @@
-{
-                "data" : [
+[
                     {
                         "type": "restaurant",
                         "data": {
@@ -1877,4 +1876,3 @@
                         "subtype": "basic"
                     }
                 ]
-            }
