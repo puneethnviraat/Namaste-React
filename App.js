@@ -1,19 +1,8 @@
-import React from "react";
-import ReactDOM from "react-dom/client";
-import Body from "./src/Components/Body";
-import Footer from "./src/Components/Footer";
-import Header from "./src/Components/Header";
 
-
-const Applayout = () => {
-  return (
-    <div className="">
-      <Header />
-      <Body />
-      <Footer />
-    </div>
-  );
-};
-
-const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(<Applayout />);
+import React from "react"
+import { ReactDOM } from "react-dom/client";
+import { createRoot } from 'react-dom/client';
+const heading=React.createElement("h1",{id:"heading",className:"heading"},"Helllo wolrd from react!!! ");
+const domNode = document.getElementById('root');
+const root = createRoot(domNode);
+root.render(heading)
