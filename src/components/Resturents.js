@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import ResList from '../utils/DataFile';
-import { CDN_URL } from '../utils/config';
+import { CDN_URL, API_URL } from '../utils/config';
 const ResturentCard = ({
   name,
   areaName,
@@ -20,36 +19,62 @@ const ResturentCard = ({
 };
 
 const Resturents = () => {
-  const [ResturentsList, setResturentsList] = useState(ResList);
-  useEffect(()=>{
+  const [ResturentsList, setResturentsList] = useState([]);
+  const [FilteredResturentsList, setFilteredResturentsList] = useState([]);
+  const [searchText, setSeachText] = useState('');
+
+  useEffect(() => {
     fetchData();
-  },[]);
+  }, []);
 
-  const fetchData = async()=>{
-const data=await fetch(
-  "https://www.swiggy.com/dapi/restaurants/list/v5?lat=12.2958104&lng=76.6393805&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_LISTING"
-)
+  const fetchData = async () => {
+    const data = await fetch(API_URL);
+    const json = await data.json();
+    setResturentsList(
+      json?.data?.cards[4]?.card?.card?.gridElements.infoWithStyle.restaurants
+    );
+    setFilteredResturentsList(
+      json?.data?.cards[4]?.card?.card?.gridElements.infoWithStyle.restaurants
+    );
+  };
 
-const json = await data.json();
-setResturentsList(json?.data?.cards[4]?.card?.card?.gridElements.infoWithStyle.restaurants)
-  }
   return (
+    
     <div>
-      <div className="filter-row">
+      <div className='filter-row'>
+                <input
+          type="text"
+          placeholder="Search by Resturent name..."
+          value={searchText}
+          onChange={(e) => {
+            setSeachText(e.target.value);
+          }}
+        />
+        <button className="btn btn-primary"
+          onClick={() => {
+            const searchResult = ResturentsList.filter((res) => {
+            return  res.info.name.toLowerCase().includes(searchText.toLowerCase());
+            });
+            setFilteredResturentsList(searchResult);
+          }}>
+          <i className="fa fa-search"></i>
+        </button>
 
         <button
-          className="btn btn-primary"
+          className="btn btn-light"
           onClick={() => {
-            const FilteredResturentsList = ResturentsList.filter(
+            const FilteredResList = ResturentsList.filter(
               (res) => res.info.avgRating > 4.3
             );
-            setResturentsList(FilteredResturentsList);
-          }}>
+            setFilteredResturentsList(FilteredResList);
+          }} >
           Highly rated
         </button>
-      </div>
+        </div>
+<div className='clr'></div>
       <div className="resturent-list">
-        {ResturentsList.map((resturent) => {
+      {console.log(FilteredResturentsList)}
+        {FilteredResturentsList.map((resturent) => {
           return <ResturentCard {...resturent.info} key={resturent.info.id} />;
         })}
       </div>
