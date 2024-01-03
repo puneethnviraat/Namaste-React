@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { CDN_URL, API_URL } from '../utils/config';
+import ShimmerUi from './ShimmerUi';
 const ResturentCard = ({
   name,
   areaName,
@@ -38,7 +39,7 @@ const Resturents = () => {
     );
   };
 
-  return (
+  return FilteredResturentsList.length==0?<ShimmerUi/>:(
     
     <div>
       <div className='filter-row'>
@@ -72,12 +73,12 @@ const Resturents = () => {
         </button>
         </div>
 <div className='clr'></div>
-      <div className="resturent-list">
-      {console.log(FilteredResturentsList)}
+
+        <div className="resturent-list">
         {FilteredResturentsList.map((resturent) => {
-          return <ResturentCard {...resturent.info} key={resturent.info.id} />;
+        return <ResturentCard {...resturent.info} key={resturent.info.id} />;
         })}
-      </div>
+        </div>
     </div>
   );
 };

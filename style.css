@@ -91,3 +91,18 @@ input {
   color: var(--primary-color);
   background-color: #fff;
 }
+.shimmer-ui{
+  background-color: rgb(156, 158, 158);
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+.shimmer-ui .box{
+  height: 250px;
+  display: block;
+  background: #616060;
+  float: left;
+    width: 350px;
+    margin: 20px;
+    padding: 10px;
+}

@@ -13,7 +13,6 @@ const Header=()=> {
           <li onClick={()=>{
             return login=="Login"?setLogin("Logout"):setLogin("Login")
           }
-
           }><a href="#">{login} </a></li>
 
       </ul>
