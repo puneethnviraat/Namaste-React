@@ -1,20 +1,23 @@
 import React, { useEffect, useState } from 'react';
 import { CDN_URL, API_URL } from '../utils/config';
 import ShimmerUi from './ShimmerUi';
+import { Link } from 'react-router-dom';
 const ResturentCard = ({
   name,
   areaName,
   cuisines,
   cloudinaryImageId,
-  avgRating,
+  avgRating,id
 }) => {
   return (
     <div className="resturent-card">
+<Link to={/resturent/+id} >
       <img src={CDN_URL + cloudinaryImageId} width={300} height={200} />
       <h3>{name}</h3>
       <p>{avgRating}</p>
       <p> {cuisines.join(', ')}</p>
       <p>{areaName}</p>
+</Link>
     </div>
   );
 };

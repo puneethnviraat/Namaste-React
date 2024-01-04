@@ -1,43 +1,56 @@
-*{
+* {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
 }
-a{
+
+a {
   text-decoration: none;
+  color: var(--primary-color);
 }
 
-body{
+body {
   font-family: Arial, Helvetica, sans-serif;
+  color: var(--main-color);
 }
-:root{
-  --primary-color:#352889;
+
+:root {
+  --primary-color: #352889;
+  --secondary-color: #F9F7F7;
+  --tertiery-color: #DBE2EF;
+  --fourth-color: #3F72AF;
+  --main-color: #112D4E;
 }
-.container{
+
+.container {
   max-width: 85%;
   margin: 0 auto;
+  min-height: 83vh;
 }
+
 /* header styles */
-.header-div{
+.header-div {
   display: flex;
   align-items: center;
-  justify-content:space-between;
+  justify-content: space-between;
   margin: 0px 10px;
   color: var(--primary-color);
   font-weight: bold;
   border-bottom: 1px solid var(--primary-color);
 }
-.header-menu li{
+
+.header-menu li {
   display: inline-block;
   padding: 10px;
   font-size: 16px;
   margin: 5px;
   align-items: center;
   text-align: center;
-  cursor:pointer ;
+  cursor: pointer;
 }
+
 /* Main Div styles */
-.footer{
+.footer {
   background-color: var(--primary-color);
   color: #fff;
   text-align: center;
@@ -45,21 +58,23 @@ body{
 }
 
 /* resturents cards */
-.resturent-card{
+.resturent-card {
   border: 1px solid var(--primary-color);
   padding: 10px;
   width: 320px;
   float: left;
   margin: 5px;
 }
-.resturent-list{
+
+.resturent-list {
   display: flex;
   text-align: center;
-  justify-content:space-around;
-  align-items:center;
+  justify-content: space-around;
+  align-items: center;
   flex-wrap: wrap;
 }
-.filter-row{
+
+.filter-row {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -67,42 +82,83 @@ body{
   justify-content: center;
   align-items: center;
 }
+
 .clr {
   clear: both;
 }
+
 input {
   height: 30px;
   border: .5px solid #a6a4a4;
   width: 30%;
   padding: 0px 10px;
 }
+
 .btn {
- cursor: pointer;
+  cursor: pointer;
   border: none;
   padding: 6px 20px;
   font-size: 16px;
   margin-right: 10px;
 }
-.btn-primary{
+
+.btn-primary {
   background-color: var(--primary-color);
   color: #fff;
 }
-.btn-light{
+
+.btn-light {
   color: var(--primary-color);
   background-color: #fff;
 }
-.shimmer-ui{
+
+.shimmer-ui {
   background-color: rgb(156, 158, 158);
   display: flex;
   -webkit-flex-wrap: wrap;
   flex-wrap: wrap;
 }
-.shimmer-ui .box{
+
+.shimmer-ui .box {
   height: 250px;
   display: block;
   background: #616060;
   float: left;
-    width: 350px;
-    margin: 20px;
-    padding: 10px;
+  width: 350px;
+  margin: 20px;
+  padding: 10px;
+}
+
+.resturent-info {
+  background: var(--secondary-color);
+  display: flex;
+  padding: 10px;
+  justify-content: space-evenly;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  margin: 5px;
+  border-radius: 5px;
+  line-height: 1.5rem;
+}
+
+.resturent-info h1 {
+  margin: 15px 0px;
+}
+
+.menu-card {
+  width: 300px;
+  height: 200px;
+  display: inline-block;
+  text-align: center;
+}
+
+.menu-categories {
+  margin: 5px 0px;
+  padding: 5px;
+}
+
+.menu-categories>h3 {
+  background: var(--tertiery-color);
+  color: var(--primary-color);
+  padding: 5px;
 }

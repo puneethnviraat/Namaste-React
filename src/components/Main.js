@@ -2,7 +2,7 @@ import Resturents from "./Resturents";
 
 const Main = () => {
   return (
-    <div className="container">
+    <div className="">
       <Resturents />
     </div>
   );
