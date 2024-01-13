@@ -9,6 +9,7 @@ import About from './src/components/About';
 import Error from './src/components/Error';
 import Contact from './src/components/Contact';
 import ResturentMenu from './src/components/ResturentMenu'
+import Parent from './src/components/Parent';
 const App = () => {
   return (
     <div>
@@ -41,6 +42,10 @@ const appRouter=createBrowserRouter([
         {
           path:"/resturent/:id",
           element:<ResturentMenu />
+        },
+        {
+          path:"/parent",
+          element:<Parent />
         }
       
     ],
