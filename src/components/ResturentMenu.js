@@ -2,25 +2,11 @@ import React, { useEffect, useState } from 'react';
 import { API_MENU_URL, CDN_URL } from '../utils/config';
 import { useParams } from 'react-router-dom';
 import noImage from '../images/no-image.png';
+import useResturentMenu from '../utils/useResturentMenu';
 
 const ResturentMenu = () => {
   const { id } = useParams();
-  const [menus, setmenus] = useState([]);
-  const [resinfo, setresinfo] = useState([]);
-
-  useEffect(() => {
-    fetchMenu();
-  }, []);
-
-  const fetchMenu = async () => {
-    const data = await fetch(API_MENU_URL + id);
-    const json = await data.json();
-    const resinfo = json.data.cards[0].card.card.info;
-    // const menus=json.data.cards[2].groupedCard.cardGroupMap.REGULAR.cards[5].card.card.itemCards;
-    const menus = json.data.cards[2].groupedCard.cardGroupMap.REGULAR.cards;
-    setmenus(menus);
-    setresinfo(resinfo);
-  };
+const [resinfo,menus]=useResturentMenu(id)
   return (
     <div className="resturent-menu">
       <div className="resturent-info">
